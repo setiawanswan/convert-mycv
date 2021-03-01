@@ -1,8 +1,8 @@
 <template>
 <div class="background">
-    <b-container class="section-four">
+    <b-container class="section-four bv-example-row">
         <b-row>
-            <b-col xs="12" md="12">
+            <b-col>
                 <p class="title-section">Education</p>
                 <b-card class="shadow p-3 mb-5 bg-body rounded border">
                     <p class="title">Telkom University</p>
@@ -27,7 +27,7 @@
                     </ul>
                 </b-card>
             </b-col>
-            <b-col xs="12" md="12">
+            <b-col>
                 <p class="title-section">Work Experience</p>
                 <b-card class="shadow p-3 mb-5 bg-body rounded border">
                     <p class="title">Atourin</p>

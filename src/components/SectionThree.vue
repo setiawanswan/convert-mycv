@@ -9,7 +9,7 @@
     </b-container>
     <b-container class="section-three">
         <b-row>
-            <b-col xs="12" md="12">
+            <b-col>
                 <b-card class="shadow p-3 mb-5 bg-body rounded border">
                     <b-icon icon="code-slash" font-scale="2" class="do-icon"></b-icon>
                     <p class="title-card">Web Development</p>
@@ -19,7 +19,7 @@
                     </b-card-text>
                 </b-card>
             </b-col>
-            <b-col xs="12" md="12">
+            <b-col>
                 <b-card class="shadow p-3 mb-5 bg-body rounded border">
                     <b-icon icon="book" font-scale="2" class="do-icon"></b-icon>
                     <p class="title-card">Read Book</p>
@@ -29,7 +29,7 @@
                     </b-card-text>
                 </b-card>
             </b-col>
-            <b-col xs="12" md="12">
+            <b-col>
                 <b-card class="shadow p-3 mb-5 bg-body rounded border">
                     <b-icon icon="chevron-down" font-scale="2" class="do-icon"></b-icon>
                     <p class="title-card">Design</p>

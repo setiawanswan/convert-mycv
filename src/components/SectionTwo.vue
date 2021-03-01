@@ -1,12 +1,12 @@
 <template>
     <b-container class="section-two" fluid="md">
         <b-row>
-            <b-col xs="12" md="12">
+            <b-col xs="12">
                 <div class="left-section">
                     <img src="../assets/office.png" alt="" width="80%">
                 </div>
             </b-col>
-            <b-col xs="12" md="12">
+            <b-col xs="12">
                 <div class="right-section">
                     <div>
                         <p class="aboutMe">About Me</p>

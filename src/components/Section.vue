@@ -1,7 +1,7 @@
 <template>
     <b-container class="section-one">
         <b-row>
-            <b-col xs="12" md="12">
+            <b-col xs="12">
                 <div>
                     <p class="fullName">Setiawan</p>
                 </div>
@@ -15,7 +15,7 @@
                     <p class="text"><b-icon icon="geo-fill" class="identity"></b-icon> Jln H.Umar No 33 (Sukabirus)Kab.Bandung, West Java PO Box, 40288 Indonesia</p>
                 </div>
             </b-col>
-            <b-col class="right-section" xs="12" md="12">
+            <b-col xs="12">
                 <div class="circle">
                     <img class="ava" src="../assets/wankuy.png" alt="" width="50%">
                 </div>
